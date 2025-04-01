@@ -2,9 +2,66 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-03-31T17:58:33+00:00</lastmod>
+		<lastmod>2025-04-01T07:19:09+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/03/logo-full.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/03/image_67208449-1-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/03/IMG_1290-scaled.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/03/IMG_1220-scaled.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/03/IMG_1507-scaled.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/03/image_67218945-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/03/image_67210497-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/tag-renovering/</loc>
+		<lastmod>2025-04-01T08:27:32+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/03/IMG_1504-scaled.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/dorudskiftning/</loc>
+		<lastmod>2025-04-01T08:23:13+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/03/IMG_1075-scaled.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/image_67145729-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/IMG_1024-scaled.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/E9F1D3F6-BC26-4BF6-9469-7B9178923F1B.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/vindues-udskiftning/</loc>
+		<lastmod>2025-04-01T08:11:39+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/03/IMG_1024-scaled.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/03/IMG_1024-scaled.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/image_671818251-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/image_67145729-scaled.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -19,27 +76,6 @@
 		<lastmod>2025-03-31T07:14:55+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/03/firma_bil-scaled.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/alle-opgaver/</loc>
-		<lastmod>2025-03-31T07:10:48+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/IMG_1075-scaled.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/vinduer-dore/</loc>
-		<lastmod>2025-03-30T05:32:09+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/IMG_1024-scaled.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/tagarbejde/</loc>
-		<lastmod>2025-03-30T05:27:03+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/IMG_1504-scaled.jpeg</image:loc>
 		</image:image>
 	</url>
 </urlset>
